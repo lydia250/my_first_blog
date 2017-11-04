@@ -25,7 +25,7 @@ SECRET_KEY = 'op6==lkv=1&mn*3%s=x_1wb6g#i9br#ak04iooaj9g5&r3y%43'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Lydia250>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Lydia250.pythonanywhere.com']
 
 
 # Application definition
